@@ -12,7 +12,7 @@ A practical guide to using ChatGPT as a productivity partner for QA professional
     - [6. Documentation & Communication](#6-documentation--communication)
     - [7. QA Career Support](#7-qa-career-support)
   - [Checklists](https://github.com/AlexKuchkov/chatgpt-for-qa/tree/main/checklists)
-
+  - [Examples](https://github.com/AlexKuchkov/chatgpt-for-qa/blob/main/examples/test-case-prompts.md)
 
 ## Who This Is For
 
