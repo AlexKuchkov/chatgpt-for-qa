@@ -106,7 +106,8 @@
 
 Contributions are welcome! If you have suggestions for improvements or new use cases, feel free to open an issue or submit a pull request.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlexKuchkov/chatgpt-for-qa/edit/main/LICENSE)
+
 
 
 
