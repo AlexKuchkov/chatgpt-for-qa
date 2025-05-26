@@ -14,7 +14,7 @@
 
 ## Additional Resources
 
-[📎 MASTER CHECKLIST FILE HERE]([./Using%20ChatGPT%20-%20QA%20Testing.pdf](https://github.com/AlexKuchkov/chatgpt-for-qa/blob/main/checklists/Using%20ChatGPT%20-%20QA%20Testing.pdf))
+[📎 MASTER CHECKLIST FILE HERE](https://github.com/AlexKuchkov/chatgpt-for-qa/blob/main/checklists/Using%20ChatGPT%20-%20QA%20Testing.pdf)
 
 
 ## Who This Is For
