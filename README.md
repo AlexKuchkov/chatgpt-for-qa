@@ -1,5 +1,18 @@
 # ChatGPT for QA Engineers
 
+## 📚 Table of Contents
+
+- [ChatGPT for QA Engineers](#chatgpt-for-qa-engineers)
+- [Who This Is For](#who-this-is-for)
+- [Use Cases for QA Engineers](#use-cases-for-qa-engineers)
+  - [1. Test Case Design & Test Planning](#1-test-case-design--test-planning)
+  - [2. Bug Reporting & Debugging Help](#2-bug-reporting--debugging-help)
+  - [3. Manual Testing Assistance](#3-manual-testing-assistance)
+  - [4. Automation Support](#4-automation-support)
+  - [5. API Testing & Tools](#5-api-testing--tools)
+  - [6. Documentation & Communication](#6-documentation--communication)
+  - [7. QA Career Support](#7-qa-career-support)
+
 
 ## Who This Is For
 
