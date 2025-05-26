@@ -83,7 +83,6 @@
 
 </br>
 
----
 
 ## More Examples
 
@@ -186,7 +185,6 @@
 
 > "Turn this Excel test case list into a Markdown table for GitHub."
 
----
 
 
 
