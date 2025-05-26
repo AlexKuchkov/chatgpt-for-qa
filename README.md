@@ -12,6 +12,10 @@
   - [6. Documentation & Communication](#6-documentation--communication)
   - [7. QA Career Support](#7-qa-career-support)
 
+## Additional Resources
+
+[📎 MASTER CHECKLIST FILE HERE](./Using%20ChatGPT%20-%20QA%20Testing.pdf)
+
 
 ## Who This Is For
 
