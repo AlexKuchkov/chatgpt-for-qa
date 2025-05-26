@@ -1,10 +1,5 @@
 # ChatGPT for QA Engineers
 
-A comprehensive guide and checklist on how QA Engineers—manual or automation—can work effectively with ChatGPT to speed up test planning, improve documentation, generate test cases, troubleshoot bugs, and more.
-
-This repo includes example prompts, categorized checklists, tips for maximizing response quality, and resource links.
-
-
 ## Who This Is For
 
 - Manual QA Engineers
