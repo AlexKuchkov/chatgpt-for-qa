@@ -10,10 +10,7 @@
     - [5. API Testing & Tools](#5-api-testing--tools)
     - [6. Documentation & Communication](#6-documentation--communication)
     - [7. QA Career Support](#7-qa-career-support)
-
-## Additional Resources
-
-[📎 MASTER CHECKLIST FILE HERE](https://github.com/AlexKuchkov/chatgpt-for-qa/blob/main/checklists/Using%20ChatGPT%20-%20QA%20Testing.pdf)
+  - [Checklists](https://github.com/AlexKuchkov/chatgpt-for-qa/blob/main/checklists/Using%20ChatGPT%20-%20QA%20Testing.pdf)
 
 
 ## Who This Is For
