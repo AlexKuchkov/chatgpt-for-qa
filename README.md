@@ -1,5 +1,5 @@
 # ChatGPT for QA Engineers
-A practical guide to using ChatGPT as a productivity partner for QA professionals. From designing test cases and writing bug reports to debugging, automation, API testing, and career growth—this resource offers real-world use cases and example prompts tailored for testers. Ideal for manual testers, and QA leads looking to boost their efficiency with AI-powered assistance.
+A practical guide to using ChatGPT as a productivity partner for QA professionals. From designing test cases and writing bug reports to debugging, automation, API testing, and career growth-this resource offers real-world use cases and example prompts tailored for testers. Ideal for manual testers, and QA leads looking to boost their efficiency with AI-powered assistance.
 
 - <strong>Table of Contents</strong>
   - [Who This Is For](#who-this-is-for)
